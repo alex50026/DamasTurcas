@@ -52,6 +52,6 @@ g++ main.cpp fichas.cpp tablero.cpp -o damas_turcas
 # Ejecutar
 ./damas_turcas
 
-#Autores
+##Autores
 -Tomas Silva
 -Alexander Aponte
